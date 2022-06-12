@@ -1,6 +1,2 @@
 Welcome to file3.txt
-12345
-23456
-34567
-45678
-56789
+removed digits
